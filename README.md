@@ -37,14 +37,14 @@ The results section includes a comparative analysis of the models and their perf
 
 ### Example of Model Comparison
 
-| Model                 | Accuracy | Precision | Recall | F1-Score |
-|-----------------------|----------|-----------|--------|----------|
-| Logistic Regression   | xx%      | xx%       | xx%    | xx%      |
-| Decision Tree         | xx%      | xx%       | xx%    | xx%      |
-| Random Forest         | xx%      | xx%       | xx%    | xx%      |
-| Support Vector Machine| xx%      | xx%       | xx%    | xx%      |
-| Naive Bayes           | xx%      | xx%       | xx%    | xx%      |
-| KNN                   | xx%      | xx%       | xx%    | xx%      |
+| Model                 | Accuracy | Precision    | Recall    | F1-Score    |
+|-----------------------|----------|--------------|-----------|-------------|
+| Logistic Regression   | 87.14%   | 87.18%       | 87.14%    | 87.05%      |
+| Decision Tree         | 97.14%   | 97.5%        | 97.5%     | 97.5%       |
+| Random Forest         | 94.29%   | 95.5%        | 93%       | 94%         |
+| Support Vector Machine| 83.93%   | 85%          | 82%       | 83%         |
+| Naive Bayes           | 90.36%   | 91%          | 89.5%     | 90%         |
+| KNN                   | 91.43%   | 91.5%        | 91.5%     | 91.5%       |
 
 
 Detailed visualizations such as confusion matrices and ROC curves can be found in the Jupyter notebook.
